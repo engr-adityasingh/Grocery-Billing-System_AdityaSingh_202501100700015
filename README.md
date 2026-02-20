@@ -18,3 +18,11 @@ A grocery store wants to calculate the total cost of items purchased by a custom
    - Final Amount Payable
 
 ## Sample Output
+Enter price of item 1: 23
+Enter price of item 2: 24
+Enter price of item 3: 4.23
+
+--- Billing Summary ---
+Original Total: $51.23
+Discount: $5.12
+Final Amount Payable: $46.11
